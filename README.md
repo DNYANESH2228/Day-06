@@ -76,4 +76,5 @@ Authority tactic – claiming to be a minister to appear powerful and trustworth
 
 The attacker may ask for bank details or personal information.
 
+
 The victim may be asked to pay “processing fees” and lose money in advance-fee fraud.
